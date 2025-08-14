@@ -42,8 +42,11 @@ Only the following columns were retained:
 ### 2. Engagement Rate Calculation
 Two different engagement rate formulas were applied to evaluate content performance from distinct perspectives:
 1. **Reach-based Engagement Rate**
+Engagement Rate (Reach-based) = (Engagement / Reach) × 100
 - Measures the percentage of users who engaged with the content out of all who saw it.
+
 2. **View-based Engagement Rate**
+Engagement Rate (View-based) = (Engagement / Views) × 100
 - Measures the percentage of engagements relative to the number of times the content was viewed.
 
 ### 3. Visualization
@@ -52,7 +55,6 @@ Two different engagement rate formulas were applied to evaluate content performa
 - Outliers were highlighted to examine posts with unusually high or low performance.
 
 ## Key Findings
-*(Replace this placeholder with your summarized insights once analysis is complete — for example:)*  
 - Posts with shorter durations tend to have higher engagement rates.
 - A small number of posts received disproportionately high views compared to the majority.
 - Engagement rates vary significantly between content categories.
