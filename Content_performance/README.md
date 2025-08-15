@@ -75,7 +75,6 @@ jupyter notebook
 3. Run each cell in order to reproduce the analysis.
 
 ## 📌 Key Insights
-
 - Reels generated 98% of total follower growth.
 - Relationship-themed Reels had the highest engagement and follower conversion.
 - Self-Growth and Brand-Involved posts underperformed in follower acquisition but have potential with better targeting and structure.
