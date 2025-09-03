@@ -1,6 +1,6 @@
 # Customer Personality Analysis
 
-## Oblective 
+## Objective 
 Customer Personality Analysis is a detailed analysis of a company's ideal customers. To helps a business to understand its customers for easier to modify product accroding to the specific needs, behaviors and concerns of different types of customers.
 
 ## Dataset
