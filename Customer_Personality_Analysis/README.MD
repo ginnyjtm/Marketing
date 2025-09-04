@@ -17,17 +17,6 @@ Group customers into 5 behavior and value-based clusters using spend, recency, a
 - **Columns** 
 > People
 * `ID`: Customer's unique identifier
-<<<<<<< HEAD
-* 'Year_Birth': Customer's birth year
-* 'Education': Customer's education level
-* 'Marital_Status': Customer's marital status
-* 'Income': Customer's yearly household income
-* 'Kidhome': Number of children in customer's household
-* 'Teenhome': Number of teenagers in customer's household
-* 'Dt_Customer': Date of customer's enrollment with the company
-* 'Recency': Number of days since customer's last purchase
-* 'Complain': 1 if the customer complained in the last 2 years, 0 otherwise
-=======
 * `Year_Birth`: Customer's birth year
 * `Education`: Customer's education level
 * `Marital_Status`: Customer's marital status
@@ -37,7 +26,6 @@ Group customers into 5 behavior and value-based clusters using spend, recency, a
 * `Dt_Customer`: Date of customer's enrollment with the company
 * `Recency`: Number of days since customer's last purchase
 * `Complain`: 1 if the customer complained in the last 2 years, 0 otherwise
->>>>>>> customer_personality_analysis
 
 > Products
 * `MntWines`: Amount spent on wine in last 2 years
