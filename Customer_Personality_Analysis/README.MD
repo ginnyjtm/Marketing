@@ -1,13 +1,12 @@
 # Customer Personality Analysis
 
 
-## Project Overview 
+## Overview 
 Customer Personality Analysis is a detailed analysis of a company's ideal customers. To helps a business to understand its customers for easier to modify product accroding to the specific needs, behaviors and concerns of different types of customers.
 
 ---
 ## Objective
-
-Group customers into 5 behavior and value-based clusters using spend, recency, and channel preference.
+Group customers into 5 distinct clusters based on **behavior and value**, using metrics like **Total Spend, Recency of purchase, and Purchase Channels** to identify meaningful customer segments for targeted marketing.
 
 ---
 ## Dataset
